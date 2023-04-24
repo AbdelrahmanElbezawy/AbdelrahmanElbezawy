@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/abdelrahman-elbezawy/">Abdelrahman</a></h2>
 <p>I'm a DevOps engineer.</p>
 <p><a href="https://www.linkedin.com/in/abdelrahman-elbezawy/"><img src="https://img.shields.io/badge/-@Abdelrahman-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/abdelrahman-elbezawy/" alt="LinkedIn Badge"></a></p>
-<p><a href="mailto:elbezawy.abdelrahman@gmail.com"><img src="https://img.shields.io/badge/-@Abdelrahman-0077B5?style=flat-square&amp;labelColor=DB4437&amp;logo=gmail&amp;link=%3Ca%20href=%22mailto:elbezawy.abdelrahman@gmail.com%22%3ESend%20Email%3C/a%3E" alt="Gmail Badge"></a></p>
+<p><a href="mailto:elbezawy.abdelrahman@gmail.com"><img src="https://img.shields.io/badge/Abdelrahman-D14836?style=flat-square&logo=gmail&logoColor=white&link=%3Ca%20href=%22mailto:elbezawy.abdelrahman@gmail.com%22%3ESend%20Email%3C/a%3E" alt="Gmail Badge"></a></p>
 <!--
  <p>🍌 Don't forget to get some Potassium 🍌</p> 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" 
