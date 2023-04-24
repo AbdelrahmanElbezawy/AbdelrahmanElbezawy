@@ -23,7 +23,7 @@
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" alt="Redhat" width="25" height="25" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" alt="Centos" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" alt="Centos" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="25" height="25" />
