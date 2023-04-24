@@ -11,12 +11,14 @@
 <li>🧐Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit.</li>
 <li>💻Self and quick learner, self-motivated, and social.</li>
 </ul>
+ <!--
 <h2>✒️ Recent Posts</h2>
 <details>
     <summary>Explore</summary>
     <li><a target="_blank" href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-browser-in-the-browser-(bitb)-attack---lies,-deceit,-and-css">The Browser in the Browser (BITB) Attack - Lies, Deceit, and CSS — March 30, 2022</a></li>
 </details>
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
+-->
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" alt="Redhat" width="25" height="25" />
@@ -35,4 +37,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanElbezawy&show_icons=true&count_private=true" alt="AbdelrahmanElbezawy" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=AbdelrahmanElbezawy.AbdelrahmanElbezawy" alt="visitors"></p>
