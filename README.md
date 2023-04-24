@@ -19,7 +19,7 @@
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="Redhat" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" alt="Redhat" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" alt="Centos" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="25" height="25" />
